@@ -40,8 +40,9 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-
+    ENV.baseURL = '/ie8/';
   }
-
+  
+  
   return ENV;
 };
