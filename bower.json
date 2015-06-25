@@ -13,8 +13,5 @@
     "bootstrap": "~3.2.0",
     "loader.js": "ember-cli/loader.js#3.2.0",
     "qunit": "~1.17.1"
-  },
-  "devDependencies": {
-    "html5shiv": "~3.7.2"
   }
 }
